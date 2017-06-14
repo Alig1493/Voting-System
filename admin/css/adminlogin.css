@@ -1,0 +1,72 @@
+.button
+{
+    background: url(../images/button-bg.png) repeat-x top center;
+    border: 1px solid #999;
+    cursor: pointer;
+    -moz-border-radius: 5px;
+    padding: 5px; color: black;
+    font-weight: bold;
+    -webkit-border-radius: 5px;
+    font-size: 13px;
+    width: 70px;
+}
+
+.button:hover
+{
+    background: white;
+    color: black;
+}
+
+form
+{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    left: 430px;
+    width: 550px;
+}
+
+fieldset
+{
+    border: 10px groove #3399FF;
+    background-color: #3399FF;
+    box-shadow: 10px 10px 50px;
+
+}
+
+label
+{
+    width: 115px;
+    font-weight: bold;
+    font-size: 16px;
+    font-size:20px;
+    text-decoration: underline;
+    font-family: cursive;
+    margin-right: 10px;
+}
+
+input
+{
+    width: 220px;
+    padding: 4px;
+    font-size: 18px;
+    color: #3a3a3a;
+    font-family: Calibri, serif;
+    margin: 10px;
+}
+
+legend
+{
+    font-family: cursive;
+    font-size: 40px;
+    border: 10px groove #3399FF;
+    background-color: #3399FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 50px;
+}
+
+body
+{
+    background-color: #336699;
+}

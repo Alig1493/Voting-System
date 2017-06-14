@@ -1,0 +1,31 @@
+
+body
+{
+    font-family: Tahoma, sans-serif;
+    background: #c4c4c4; color: #3a3a3a;
+}
+
+#move
+{
+
+}
+
+
+
+fieldset
+{
+    border: 0;
+}
+
+
+
+
+
+input[type=checkbox]
+{
+    width: 20px;
+    margin: 0;
+    display: inline-block;
+}
+					  
+
